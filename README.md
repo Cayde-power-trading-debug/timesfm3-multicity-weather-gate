@@ -124,3 +124,6 @@ python -m unittest discover -s tests -v
 - [Google Research TimesFM GitHub](https://github.com/google-research/timesfm)
 - [TimesFM 3.0 模型许可证](https://huggingface.co/google/timesfm-3.0-pytorch/blob/main/LICENSE)
 
+## Further architecture notes
+
+- [City gate evaluation without leakage](docs/city-gate-evaluation.md) — Weather-vintage validation, regional-versus-city metrics, and city-level conservation checks.
